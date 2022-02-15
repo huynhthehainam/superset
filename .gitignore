@@ -21,6 +21,8 @@
 *.swp
 __pycache__
 
+mydata/
+
 .local
 .cache
 .bento*

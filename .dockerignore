@@ -37,6 +37,7 @@
 **/.storybook/
 **/node_modules/
 
+mydata/
 tests/
 docs/
 install/

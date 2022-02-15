@@ -15,7 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+pip install pyathena
 set -eo pipefail
 
 REQUIREMENTS_LOCAL="/app/docker/requirements-local.txt"
